@@ -1,0 +1,28 @@
+{
+  "name": "woodstock",
+  "version": "0.1.0",
+  "description": "Raspbian app for ticket management written in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "node-watch": "^0.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobGarcia/Woodstock.git"
+  },
+  "keywords": [
+    "pos",
+    "receipt",
+    "invoice"
+  ],
+  "author": "Wetopia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobGarcia/Woodstock/issues"
+  },
+  "homepage": "https://github.com/JacobGarcia/Woodstock#readme"
+}
